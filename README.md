@@ -1,4 +1,3 @@
-
 Woodgrove Ads – Microsoft Advertising Sales Executive Dashboard
 Role being mimicked
 Sales Operations Data Analyst – Microsoft Advertising.
@@ -92,4 +91,20 @@ Filters/Slicers:
 
 Region, Manager, Rep, Industry (and optional Date/Quarter).
 
-This project demonstrates end‑to‑end skills expected of a Sales Operations Data Analyst in Microsoft Advertising: data modeling, Power BI semantic modeling, executive dashboard design, and stakeholder‑oriented analytics storytelling
+## Power BI Dashboard
+
+This project includes a Power BI dashboard for executive insights and sales performance analysis. The dashboard visualizes:
+- Average Sales Cycle
+- Average Deal Size
+- Win Rate
+- Total Revenue
+- Total Pipeline
+- Revenue and Win Rate by Sales Rep
+- Revenue by Account and Industry
+- Pipeline by Stage
+- Revenue Target vs. Actual
+
+You can find the Power BI dashboard file here:
+- [powerbi/Woodgrove Data Power Bi.pbip](powerbi/Woodgrove%20Data%20Power%20Bi.pbip)
+
+![Power BI Dashboard Overview](docs/powerbi_dashboard_overview.png)
